@@ -1,2 +1,2 @@
-# DungeonGame-Sample-Code
-Sample code from Dungeon Game.
+# DungeonGame Sample Code
+Sample C# scripts from Senior Project Dungeon Game.
